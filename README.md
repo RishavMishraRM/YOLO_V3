@@ -1,3 +1,3 @@
 # YOLO_V3
 
-on custom dataset
+YOLO Version 3
